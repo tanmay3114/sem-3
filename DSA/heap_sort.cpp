@@ -61,7 +61,7 @@ void display(int ar[],int len){
 
 int main(){
     int len;
-    cout<<"Enter the length of heap : ";
+    cout<<"Enter the length : len: ";
     cin>>len;
     int arr[len];
     for(int  i=0;i<len;i++){
